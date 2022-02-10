@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"crypto/tls"
 	"fmt"
-	"github.com/Greyh4t/dnscache"
+	"github.com/greyh4t/dnscache"
 	"github.com/google/go-querystring/query"
 	"github.com/pkg/errors"
 	"golang.org/x/net/publicsuffix"
